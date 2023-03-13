@@ -1,3 +1,2 @@
 # movies
- I am going to learn spring boot full stack developing. So, I found a YouTube chanel to take my first step. 
-    YouTube Chanel link - https://youtu.be/5PdEmeopJVQ
+Spring boot full stack developing | I was able to read the data from the MongoDB database. 
